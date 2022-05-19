@@ -1,0 +1,10 @@
+#hackerearth in love with prime numbers program.
+t=int(input())
+for i in range(t):
+    n=int(input())
+    if n|2 and n>>2:
+        print("Deepa")
+    else:
+        print("Arjit") 
+        
+program link: https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/in-love-with-primes/
